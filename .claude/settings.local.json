@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install openpyxl -q)",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\�ִٺ�\\\\Desktop\\\\PPT\\\\������Ȳ\\\\index.html\")"
+    ]
+  }
+}

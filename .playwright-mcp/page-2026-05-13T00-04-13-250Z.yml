@@ -1,0 +1,82 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - banner [ref=e2]:
+      - heading "로고" [level=1] [ref=e3]:
+        - link "로고" [ref=e4] [cursor=pointer]:
+          - /url: /index.do
+          - img "로고" [ref=e5]
+    - img "검색" [ref=e7] [cursor=pointer]
+    - link [ref=e9] [cursor=pointer]:
+      - /url: "#"
+  - generic [ref=e14]:
+    - generic [ref=e16]:
+      - paragraph [ref=e18]: CI
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]: 시그니처
+            - generic [ref=e23]: · 유전체문양은 생명의 근원으로 생명과학의 끊임없는 새로운 진단기술의 개발을 의미
+            - generic [ref=e24]: · 빨강색은 새로움에 대한 도전, 뜨거운 열정 그리고 성공을 향한 강한 의지
+            - generic [ref=e25]: · 새로운 진단기술이 세계를 하나로 연결하는 Globalization으로, 인류의 건강을 증진시키는 원동력을 의미
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - emphasis [ref=e28]: 한글형 좌우조합
+              - img "ci그림" [ref=e30]
+            - generic [ref=e31]:
+              - emphasis [ref=e32]: 영문형 좌우조합
+              - img "ci그림" [ref=e34]
+        - generic [ref=e35]:
+          - emphasis [ref=e36]: 혼합형 좌우조합
+          - generic [ref=e37]:
+            - img "ci그림" [ref=e38]
+            - img "ci그림" [ref=e39]
+            - img "ci그림" [ref=e40]
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - paragraph [ref=e43]: 심볼
+            - generic [ref=e44]: 유전자를 분석하여 질병의 여부를 판별하는 독창적이고 우수한 동시다중 유전자 검사 기술을 상징합니다.
+          - img "ci그림" [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - paragraph [ref=e49]: 로고타입
+            - generic [ref=e50]: · 로고타입은 심볼마크와 함께 씨젠의료재단의 이미지를 시각적으로 전달하는 가장 기본적인 요소입니다.
+            - generic [ref=e51]: · 시그니처 사용 시 한글과 영어 외에 다른 언어로 로고타입으로 사용할 수 없으며, 대문자 조합의 로고타입 사용을 금지합니다.
+          - generic [ref=e52]:
+            - img "ci그림" [ref=e54]
+            - img "ci그림" [ref=e56]
+            - img "ci그림" [ref=e58]
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - paragraph [ref=e61]: 색상체계
+            - generic [ref=e62]: 색상체계는 기본요소의 하나로서 씨젠의료재단의 고유한 색상이미지를 형성하고 심볼마크 · 로고타입 및 각종 시각매체에 적용하여 씨젠의료재단의 이미지를 전달하는 기능을 합니다.
+          - generic [ref=e63]:
+            - img "ci그림" [ref=e64]
+            - img "ci그림" [ref=e65]
+    - contentinfo [ref=e66]:
+      - generic [ref=e67]:
+        - heading "푸터로고" [level=2] [ref=e69]:
+          - img "푸터로고" [ref=e70]
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - text: 서울 동대문구 답십리로 288 씨젠메디칼타워
+            - text: 대표전화번호 1566-6500 / 대표팩스번호 02-3394-6503
+          - paragraph [ref=e73]: Copyright © Seegene Medical Foundation. All right reserved.
+        - generic [ref=e74]:
+          - list [ref=e75]:
+            - listitem [ref=e76] [cursor=pointer]:
+              - link "개인정보 처리방침" [ref=e77]:
+                - /url: /policy/index.do
+          - combobox [ref=e78]:
+            - option "패밀리사이트" [selected]
+            - option "(주)씨젠"
+            - option "SG메디컬"
+            - option "오픈헬스케어"
+            - option "씨차트"
+            - option "드리머"
+        - generic [ref=e80]:
+          - paragraph [ref=e81] [cursor=pointer]:
+            - img "블로그" [ref=e82]
+          - paragraph [ref=e83] [cursor=pointer]:
+            - img "유튜브" [ref=e84]
+          - paragraph [ref=e85] [cursor=pointer]:
+            - img "페이스북" [ref=e86]
